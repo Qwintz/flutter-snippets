@@ -1,0 +1,14 @@
+{
+    "extensionId": "qwintz.qwintz-s-flutter-snippets",
+    "versions": [
+        {
+            "version": "0.0.1",
+            "files": [
+                {
+                    "assetType": "Microsoft.VisualStudio.Services.VSIXPackage",
+                    "source": "https://qwintz.github.io/flutter-snippets/qwintz-s-flutter-snippets-0.0.1.vsix"
+                }
+            ]
+        }
+    ]
+}
